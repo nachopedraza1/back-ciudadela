@@ -22,7 +22,7 @@ carga de nuestra petición realicé un skeleton de carga en cada una de las fila
 - Para ejecutar el proyecto back-end:
 
 ```bash
-1 - clonar el repositorio: git clone [https://github.com/nachopedraza1/back-ciudadela](https://github.com/nachopedraza1/back-ciudadela)
+1 - clonar el repositorio: git clone https://github.com/nachopedraza1/back-ciudadela
 2 - instalar dependencias: npm install
 3 - asegurarnos de tener las variables de entorno correctamente
 4 - ejecutar app.js
@@ -32,7 +32,7 @@ carga de nuestra petición realicé un skeleton de carga en cada una de las fila
 - Para ejecutar el proyecto front-end:
 
 ```bash
-1 - clonar el repositorio: git clone [https://github.com/nachopedraza1/back-ciudadela](https://github.com/nachopedraza1/front-ciudadela)](https://github.com/nachopedraza1/front-ciudadela)
+1 - clonar el repositorio: git clone https://github.com/nachopedraza1/front-ciudadela
 2 - instalar dependencias: npm install
 3 - npm run dev
 ```
