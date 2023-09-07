@@ -12,6 +12,6 @@ control posible de las respuestas de nuestra api y de los tipos. Con respecto a 
 1 - clonar el repositorio: git clone https://github.com/nachopedraza1/back-ciudadela
 2 - instalar dependencias: npm install
 3 - asegurarnos de tener las variables de entorno correctamente
-4 - ejecutar nodemon dist/app.js
+4 - ejecutar app.js
 5 - realizar la petición a http://localhost:8000/api/characters
 ```
